@@ -68,7 +68,7 @@ a {
 }
 
 .chat-sidebar {
-  background: #797979f2;
+  background: #24c7acf2;
   color: #fff;
   padding: 15px 26px 65px;
   overflow-y: scroll;
@@ -111,12 +111,12 @@ a {
 }
 
 .chat-messages .message .meta span {
-  color: #777;
+  color: rgb(231, 75, 171);
 }
 
 .chat-form-container {
   padding: 20px 30px;
-  background-color: #717171;
+  background-color: #b1db4f;
 }
 
 .chat-form-container form {
