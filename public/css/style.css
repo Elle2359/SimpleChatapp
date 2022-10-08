@@ -76,7 +76,7 @@ a {
 
 .chat-sidebar h2 {
   font-size: 17px;
-  background: rgba(0, 0, 0, 0.21);
+  background: rgba(70, 171, 211, 0.21);
   padding: 10px;
   margin-bottom: 20px;
 }
@@ -145,7 +145,7 @@ a {
 
 .join-main {
   padding: 30px 40px;
-  background: #cababa;
+  background: #3ebaca;
 }
 
 .join-main p {
